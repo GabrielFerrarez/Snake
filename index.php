@@ -9,6 +9,7 @@
     <title>Snake</title>
 </head>
 <body>
+    <h1>Melhor jogo da história do planeta</h1>
     <canvas id="snake" width="512px" height="512px"></canvas>
 </body>
 </html>
